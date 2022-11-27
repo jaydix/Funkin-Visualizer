@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="guy.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="anims0000" x="0" y="0" width="126" height="185" frameX="-10" frameY="-12" frameWidth="144" frameHeight="197"/>
+	<SubTexture name="anims0001" x="0" y="0" width="126" height="185" frameX="-10" frameY="-12" frameWidth="144" frameHeight="197"/>
+	<SubTexture name="anims0002" x="0" y="0" width="126" height="185" frameX="-10" frameY="-12" frameWidth="144" frameHeight="197"/>
+	<SubTexture name="anims0003" x="126" y="0" width="122" height="188" frameX="-12" frameY="-9" frameWidth="144" frameHeight="197"/>
+	<SubTexture name="anims0004" x="126" y="0" width="122" height="188" frameX="-12" frameY="-9" frameWidth="144" frameHeight="197"/>
+	<SubTexture name="anims0005" x="248" y="0" width="122" height="191" frameX="-12" frameY="-6" frameWidth="144" frameHeight="197"/>
+	<SubTexture name="anims0006" x="370" y="0" width="136" height="188" frameX="0" frameY="-9" frameWidth="144" frameHeight="197"/>
+	<SubTexture name="anims0007" x="370" y="0" width="136" height="188" frameX="0" frameY="-9" frameWidth="144" frameHeight="197"/>
+	<SubTexture name="anims0008" x="370" y="0" width="136" height="188" frameX="0" frameY="-9" frameWidth="144" frameHeight="197"/>
+	<SubTexture name="anims0009" x="506" y="0" width="128" height="194" frameX="-9" frameY="-3" frameWidth="144" frameHeight="197"/>
+	<SubTexture name="anims0010" x="634" y="0" width="135" height="179" frameX="-9" frameY="-17" frameWidth="144" frameHeight="197"/>
+	<SubTexture name="anims0011" x="634" y="0" width="135" height="179" frameX="-9" frameY="-17" frameWidth="144" frameHeight="197"/>
+	<SubTexture name="anims0012" x="769" y="0" width="121" height="192" frameX="-12" frameY="-4" frameWidth="144" frameHeight="197"/>
+	<SubTexture name="anims0013" x="769" y="0" width="121" height="192" frameX="-12" frameY="-4" frameWidth="144" frameHeight="197"/>
+	<SubTexture name="anims0014" x="890" y="0" width="125" height="188" frameX="-11" frameY="-8" frameWidth="144" frameHeight="197"/>
+	<SubTexture name="anims0015" x="0" y="194" width="112" height="196" frameX="-17" frameY="0" frameWidth="144" frameHeight="197"/>
+	<SubTexture name="anims0016" x="0" y="194" width="112" height="196" frameX="-17" frameY="0" frameWidth="144" frameHeight="197"/>
+	<SubTexture name="anims0017" x="0" y="194" width="112" height="196" frameX="-17" frameY="0" frameWidth="144" frameHeight="197"/>
+	<SubTexture name="anims0018" x="112" y="194" width="127" height="192" frameX="-11" frameY="-5" frameWidth="144" frameHeight="197"/>
+	<SubTexture name="anims0019" x="239" y="194" width="128" height="191" frameX="-11" frameY="-5" frameWidth="144" frameHeight="197"/>
+	<SubTexture name="anims0020" x="239" y="194" width="128" height="191" frameX="-11" frameY="-5" frameWidth="144" frameHeight="197"/>
+	<SubTexture name="anims0021" x="239" y="194" width="128" height="191" frameX="-11" frameY="-5" frameWidth="144" frameHeight="197"/>
+	<SubTexture name="anims0022" x="239" y="194" width="128" height="191" frameX="-11" frameY="-5" frameWidth="144" frameHeight="197"/>
+	<SubTexture name="anims0023" x="367" y="194" width="124" height="189" frameX="-11" frameY="-7" frameWidth="144" frameHeight="197"/>
+</TextureAtlas>
